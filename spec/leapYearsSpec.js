@@ -15,6 +15,6 @@
 
 describe("leapYear", function () {
   it("returns true if given year 400", function () {
-    expect(leapYear(400)).tobe(true);
+    expect(leapYear(400)).toBe(true);
   });
 });

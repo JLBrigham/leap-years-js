@@ -1,1 +1,3 @@
-class LeapYears {}
+function leapYear(year) {
+  return true;
+}
